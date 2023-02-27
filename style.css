@@ -18,7 +18,7 @@ border: 3px solid #aac2e3 ;
 section {overflow: auto;}
 
 header {background-image: url(Photo/mountain.png);
-    padding: 50px 50px;
+    padding: 50px 30px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -40,18 +40,18 @@ h3 {margin-top: 50px;
 
 .profil {
     background-color: #91a6c4;
-    padding: 70px 140px;
+    padding: 70px 15%;
     }
 
 .education {background-color: #aac2e3;
-padding:70px 140px }
+padding:70px 15% }
 
 .work {background-color: #91a6c4;
-padding:70px 140px}
+padding:70px 15%}
 
 .hobbies {
     background-color: #aac2e3;
-    padding: 70px 140px}
+    padding: 70px 15%}
 
 footer {
     background-color: #203251;
