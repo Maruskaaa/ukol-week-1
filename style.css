@@ -19,14 +19,13 @@ section {
 
 header {
   background-image: url(Photo/mountain.png);
-  padding: 50px 30px;
+  padding: 50px 40px;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
-.h1 {box-sizing: border-box;
-    margin:auto ;}
+
 
 h1 {
   letter-spacing: 18px;
