@@ -25,6 +25,9 @@ header {
   background-size: cover;
 }
 
+.h1 {box-sizing: border-box;
+    margin:auto ;}
+
 h1 {
   letter-spacing: 18px;
   font-size: 33px;
